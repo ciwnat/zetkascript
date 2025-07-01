@@ -1,6 +1,6 @@
 ZETKA SCRIPT — это многофункциональный скрипт для TSB с системой защиты ключами.
 
-👉loadstring(game:HttpGet("https://raw.githubusercontent.com/ciwnat/zetkascript/refs/heads/main/main.lua"))()👈
+👉 loadstring(game:HttpGet("https://raw.githubusercontent.com/ciwnat/zetkascript/refs/heads/main/main.lua"))() 👈
 
 🎯 Система следования:
   Обычное следование (клавиша C) — автоматическое следование за ближайшим игроком с настраиваемой дистанцией
